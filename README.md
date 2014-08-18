@@ -3,10 +3,8 @@ BinaryKnapsackDP
 
 Tutorial Style Implementation of Solution to the Binary Knapsack Problem using Dynamic Programming
 
-*******************************************READ ME file for the project **********************************************
-This file contains compiling instructions for the VLSI CAD Project.
-
-The src folder contains two subfolders, which are named scilab and cplusplus
+* This file contains compiling instructions for the VLSI CAD Project.
+* The src folder contains two subfolders, which are named scilab and cplusplus
 
  - Inside the scilab folder, the file dynamicKnapsack is present.
 
@@ -28,4 +26,3 @@ algorithm for the knapsack problem.
 
    For ease, a ready made compiled file dynamicKnapsack.out has been provided, which can directly be run by typing
      ./dynamicKnapsack.out
-***********************************************************************************************************************
